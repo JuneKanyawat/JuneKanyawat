@@ -8,5 +8,5 @@ I am currently a third-year ordinary engineering student. I am passionate about 
 
 
 <p align="left">
-  <a target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></img></a>
+  <a target="_blank"><img src="[https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)"></img></a>
 </p>
