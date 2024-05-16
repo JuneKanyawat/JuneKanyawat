@@ -1,8 +1,8 @@
-## Namaste, It's Me,
+## 🌈 Namaste!! 🐻 it's me,
 
 I am currently a third-year ordinary engineering student. I am passionate about writing code and programming. My major provides me with the opportunity to present my ideas and express my creativity in my work.</h3>
 
-- 🔭 I’m currently working on **internship**
+- 🔭 I’m currently working on an **internship**
 
 - ✨ I’m a front-end developer who is currently learning and working on **machine learning**
 
